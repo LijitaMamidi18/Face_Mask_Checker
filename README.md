@@ -1,8 +1,5 @@
-Perfect! Based on the style you've provided, here’s a **GitHub README** in the same structured format for your **Face Mask Detection** project:
 
----
-
-# Face\_Mask\_Detection
+# Face\_Mask\_Checker
 
 This is a deep learning project focused on detecting whether a person is wearing a face mask or not using image classification. It leverages a Convolutional Neural Network (CNN) model trained on a labeled dataset of masked and unmasked faces. The system is deployed using Streamlit to provide a user-friendly web interface for real-time predictions.
 
@@ -68,27 +65,4 @@ To build and deploy a deep learning model that can classify input images as:
 * Users can upload an image to receive a prediction (Mask or No Mask).
 * Entire app runs in a browser without the need for HTML/CSS.
 
----
 
-## **How to Run**
-
-1. Clone the repository
-2. Install dependencies
-
-```bash
-pip install -r requirements.txt
-```
-
-3. Run the Streamlit app
-
-```bash
-streamlit run app.py
-```
-
----
-
-Let me know if you want:
-
-* A **screenshot/GIF** section
-* A **training notebook link**
-* Or a **cloud deployment** (e.g., Streamlit Cloud / Hugging Face / GCP) section
